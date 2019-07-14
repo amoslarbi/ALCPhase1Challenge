@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ALCPhase1Challenge</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="myname">"Amos Kwame Larbi"</string>
+    <string name="track">"Track: "</string>
+    <string name="android">"Android"</string>
+    <string name="country">"Country: "</string>
+    <string name="ghana">"Ghana"</string>
+    <string name="email">"Email: "</string>
+    <string name="mail">"larbiamos18@gmail.com"</string>
+    <string name="phone">"Phone Number: "</string>
+    <string name="number">"+233574871282"</string>
+    <string name="slack">"Slack Username: "</string>
+    <string name="username">"amoslarbi"</string>
+
+</resources>
